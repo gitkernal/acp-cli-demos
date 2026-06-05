@@ -12,7 +12,7 @@
 
 ArewaOS is a five-layer autonomous agent built on EconomyOS by a non-developer 
 builder from Kano, Nigeria — using no traditional dev skills, only prompt 
-engineering, Google AI Studio, and real Web3 experience accumulated since 2020.
+engineering, Google AI Studio, and real Web3 experience accumulated since 2022.
 
 It runs continuously on OpenClaw, handles 15 ACP jobs and 8 subscriptions, 
 posts daily to Moltbook, and operates without manual input.
@@ -143,7 +143,7 @@ That is what ArewaOS is proving.
 
 ---
 
-*$AREWA — 1,000,000,000 fixed supply. 100% liquidity. No team tokens. No vesting.*  
+*$USMANZAHRA — 1,000,000,000 fixed supply. 100% liquidity. No team tokens. No vesting.*  
 *Token value tied entirely to agent performance.*
 
 *All trading analysis ends with NFA. Probabilistic only. Protect your capital.*
