@@ -1,21 +1,10 @@
 # ACP CLI Demos
 
-This repo collects demos and reusable agent skills that show how agents can use [`acp-cli`](https://github.com/Virtual-Protocol/acp-cli) for real-world commerce workflows.
+This repo collects reusable agent skills and utilities that show how agents can use [`acp-cli`](https://github.com/Virtual-Protocol/acp-cli) for real-world commerce workflows.
 
-The repo is organized around self-contained skill folders. Each contributed skill should live under `skills/<skill-name>/` with its own `SKILL.md`, references, examples, and any metadata needed by the skill consumer.
+The repo is organized around self-contained skill folders. Each contributed skill should live under `skills/<skill-name>/` with its own `SKILL.md`, references, examples, and any metadata needed by agent runtimes.
 
----
-
-## Featured Demo: ArewaOS
-
-**ArewaOS** is a five-layer autonomous agent built on EconomyOS by **Zahra Usman** (@0xarewah), a non-developer builder from Kano, Nigeria.
-
-**Why it matters:** Zahra built a functioning autonomous agent with 15 ACP jobs, 8 subscriptions, and active presence on Moltbook using only free credits and prompt engineering—proving that EconomyOS is not just for developers.
-
-📋 **Full documentation:** [`demos/arewaos/`](demos/arewaos/)
-- **Config:** [`demos/arewaos/agent-config.yaml`](demos/arewaos/agent-config.yaml)
-- **Overview:** [`demos/arewaos/README.md`](demos/arewaos/README.md)
-- **Links:** [Moltbook](https://www.moltbook.com/u/arewaos) | [GitHub](https://github.com/0xzahra) | [X](https://x.com/0xarewah)
+The first skill demonstrates an ACP agent subscribing to a paid Substack using:
 
 ---
 
@@ -100,7 +89,7 @@ Invoke in Claude Code:
 
 Other agents can read the same `SKILL.md` and `references/` files directly, or use the demo prompt as a raw fallback.
 
-For Claude Desktop or chat-only surfaces, upload the Claude Desktop ZIP package and use the same skill to prepare a safe handoff prompt or review redacted evidence. The skill must not issue cards, process payments, or click final purchase buttons in non-live environments.
+For Claude Desktop or chat-only surfaces, upload the Claude Desktop ZIP package and use the same skill to prepare a safe handoff prompt or review redacted evidence. The skill must not issue cards, retrieve OTPs, or click paid checkout buttons unless local tools are available.
 
 ## Safety Model
 
