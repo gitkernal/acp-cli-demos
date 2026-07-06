@@ -1,4 +1,3 @@
-[SKILL (7).md](https://github.com/user-attachments/files/29592998/SKILL.7.md)
 # Copy Trade Signal
 
 Smart money mirroring strategy: analyzes a target wallet's style, recent moves, win-rate signals, and sizing, then returns a copy strategy — which trades to mirror, delay, sizing ratio, and blacklist. You execute yourself.
