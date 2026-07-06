@@ -1,4 +1,3 @@
-[SKILL.md](https://github.com/user-attachments/files/29592773/SKILL.md)
 # Alpha Digest
 
 A ranked daily intelligence digest for Base, combining Crypto Twitter narrative, whale wallet activity, and on-chain price signals into a single structured report.
