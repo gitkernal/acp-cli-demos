@@ -38,80 +38,80 @@
   "skills": [
     {
       "name": "alpha-digest",
-      "href": "https://github.com/gitkernal/kernal-site/blob/main/showcase/kernal/skills/alpha-digest/SKILL.md",
+      "href": "https://github.com/Virtual-Protocol/acp-cli-demos/blob/main/showcase/kernal/skills/alpha-digest/SKILL.md",
       "summary": "Ranked daily intelligence digest for Base combining Crypto Twitter narrative, whale wallet activity, and on-chain price signals. Analysis only, no fund custody.",
       "install": "Hire the alpha_digest offering from the KERNAL agent on ACP, or run it at gitkernal.app",
-      "sourcePath": "showcase/kernal/skills/alpha-digest/SKILL.md"
+      "sourcePath": "showcase/kernal/skills/alpha-digest"
     },
     {
       "name": "wallet-digest",
-      "href": "https://github.com/gitkernal/kernal-site/blob/main/showcase/kernal/skills/wallet-digest/SKILL.md",
+      "href": "https://github.com/Virtual-Protocol/acp-cli-demos/blob/main/showcase/kernal/skills/wallet-digest/SKILL.md",
       "summary": "Full on-chain wallet intelligence for any Base address: holdings, activity, PnL, and risk flags. Analysis only.",
       "install": "Hire the wallet_digest offering from the KERNAL agent on ACP, or run it at gitkernal.app",
-      "sourcePath": "showcase/kernal/skills/wallet-digest/SKILL.md"
+      "sourcePath": "showcase/kernal/skills/wallet-digest"
     },
     {
       "name": "token-alert",
-      "href": "https://github.com/gitkernal/kernal-site/blob/main/showcase/kernal/skills/token-alert/SKILL.md",
+      "href": "https://github.com/Virtual-Protocol/acp-cli-demos/blob/main/showcase/kernal/skills/token-alert/SKILL.md",
       "summary": "Price and volume anomaly detection for a single token against a threshold, returning a clear alert verdict. Analysis only.",
       "install": "Hire the token_alert offering from the KERNAL agent on ACP, or run it at gitkernal.app",
-      "sourcePath": "showcase/kernal/skills/token-alert/SKILL.md"
+      "sourcePath": "showcase/kernal/skills/token-alert"
     },
     {
       "name": "gas-tracker",
-      "href": "https://github.com/gitkernal/kernal-site/blob/main/showcase/kernal/skills/gas-tracker/SKILL.md",
+      "href": "https://github.com/Virtual-Protocol/acp-cli-demos/blob/main/showcase/kernal/skills/gas-tracker/SKILL.md",
       "summary": "Base gas analysis with a transact-now-or-wait recommendation. Advisory only.",
       "install": "Hire the gas_tracker offering from the KERNAL agent on ACP, or run it at gitkernal.app",
-      "sourcePath": "showcase/kernal/skills/gas-tracker/SKILL.md"
+      "sourcePath": "showcase/kernal/skills/gas-tracker"
     },
     {
       "name": "defi-monitor",
-      "href": "https://github.com/gitkernal/kernal-site/blob/main/showcase/kernal/skills/defi-monitor/SKILL.md",
+      "href": "https://github.com/Virtual-Protocol/acp-cli-demos/blob/main/showcase/kernal/skills/defi-monitor/SKILL.md",
       "summary": "LP and pool health analysis with impermanent loss risk modeled across price scenarios. Analysis only.",
       "install": "Hire the defi_monitor offering from the KERNAL agent on ACP, or run it at gitkernal.app",
-      "sourcePath": "showcase/kernal/skills/defi-monitor/SKILL.md"
+      "sourcePath": "showcase/kernal/skills/defi-monitor"
     },
     {
       "name": "arbitrage-scanner",
-      "href": "https://github.com/gitkernal/kernal-site/blob/main/showcase/kernal/skills/arbitrage-scanner/SKILL.md",
+      "href": "https://github.com/Virtual-Protocol/acp-cli-demos/blob/main/showcase/kernal/skills/arbitrage-scanner/SKILL.md",
       "summary": "Cross-DEX arbitrage profitability analysis between Uniswap v3 and Aerodrome, net of gas and flash loan fees. Analysis only.",
       "install": "Hire the arbitrage_scanner offering from the KERNAL agent on ACP, or run it at gitkernal.app",
-      "sourcePath": "showcase/kernal/skills/arbitrage-scanner/SKILL.md"
+      "sourcePath": "showcase/kernal/skills/arbitrage-scanner"
     },
     {
       "name": "sniper-signal",
-      "href": "https://github.com/gitkernal/kernal-site/blob/main/showcase/kernal/skills/sniper-signal/SKILL.md",
+      "href": "https://github.com/Virtual-Protocol/acp-cli-demos/blob/main/showcase/kernal/skills/sniper-signal/SKILL.md",
       "summary": "New pool launch entry signal: honeypot check, liquidity, sizing, slippage, and gas strategy. You execute, keeping custody.",
       "install": "Hire the sniper_signal offering from the KERNAL agent on ACP, or run it at gitkernal.app",
-      "sourcePath": "showcase/kernal/skills/sniper-signal/SKILL.md"
+      "sourcePath": "showcase/kernal/skills/sniper-signal"
     },
     {
       "name": "copy-trade-signal",
-      "href": "https://github.com/gitkernal/kernal-site/blob/main/showcase/kernal/skills/copy-trade-signal/SKILL.md",
+      "href": "https://github.com/Virtual-Protocol/acp-cli-demos/blob/main/showcase/kernal/skills/copy-trade-signal/SKILL.md",
       "summary": "Smart-money wallet analysis returning a copy strategy with sizing, delay, and blacklist. You execute, keeping custody.",
       "install": "Hire the copy_trade_signal offering from the KERNAL agent on ACP, or run it at gitkernal.app",
-      "sourcePath": "showcase/kernal/skills/copy-trade-signal/SKILL.md"
+      "sourcePath": "showcase/kernal/skills/copy-trade-signal"
     },
     {
       "name": "yield-signal",
-      "href": "https://github.com/gitkernal/kernal-site/blob/main/showcase/kernal/skills/yield-signal/SKILL.md",
+      "href": "https://github.com/Virtual-Protocol/acp-cli-demos/blob/main/showcase/kernal/skills/yield-signal/SKILL.md",
       "summary": "Compound-timing strategy across Aerodrome and Curve with estimated APR gain. You execute, keeping custody.",
       "install": "Hire the yield_signal offering from the KERNAL agent on ACP, or run it at gitkernal.app",
-      "sourcePath": "showcase/kernal/skills/yield-signal/SKILL.md"
+      "sourcePath": "showcase/kernal/skills/yield-signal"
     },
     {
       "name": "rebalance-signal",
-      "href": "https://github.com/gitkernal/kernal-site/blob/main/showcase/kernal/skills/rebalance-signal/SKILL.md",
+      "href": "https://github.com/Virtual-Protocol/acp-cli-demos/blob/main/showcase/kernal/skills/rebalance-signal/SKILL.md",
       "summary": "Portfolio rebalancing plan: exact trades, sizing, routing, and gas timing to correct drift. You execute, keeping custody.",
       "install": "Hire the rebalance_signal offering from the KERNAL agent on ACP, or run it at gitkernal.app",
-      "sourcePath": "showcase/kernal/skills/rebalance-signal/SKILL.md"
+      "sourcePath": "showcase/kernal/skills/rebalance-signal"
     },
     {
       "name": "mev-audit",
-      "href": "https://github.com/gitkernal/kernal-site/blob/main/showcase/kernal/skills/mev-audit/SKILL.md",
+      "href": "https://github.com/Virtual-Protocol/acp-cli-demos/blob/main/showcase/kernal/skills/mev-audit/SKILL.md",
       "summary": "MEV exposure audit for a planned transaction with Flashbots or MEV Blocker routing recommendation. Advisory only.",
       "install": "Hire the mev_audit offering from the KERNAL agent on ACP, or run it at gitkernal.app",
-      "sourcePath": "showcase/kernal/skills/mev-audit/SKILL.md"
+      "sourcePath": "showcase/kernal/skills/mev-audit"
     }
   ],
   "artifacts": [
@@ -132,7 +132,7 @@
     },
     {
       "label": "Skill catalog (SKILL.md files)",
-      "href": "https://github.com/gitkernal/kernal-site/tree/main/showcase/kernal/skills",
+      "href": "https://github.com/Virtual-Protocol/acp-cli-demos/tree/main/showcase/kernal/skills",
       "kind": "doc"
     }
   ],
@@ -142,7 +142,7 @@
     "What on-chain execution skill is missing from the catalog that your agent needs on Base?"
   ],
   "soul": {
-    "href": "https://github.com/gitkernal/kernal-site/blob/main/showcase/kernal/soul.md",
+    "href": "https://github.com/Virtual-Protocol/acp-cli-demos/blob/main/showcase/kernal/soul.md",
     "summary": "Public, redacted context for the KERNAL provider agent: identity, purpose, operating principles, and boundaries. No credentials, keys, or operational secrets."
   }
 }
