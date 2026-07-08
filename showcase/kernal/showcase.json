@@ -33,7 +33,9 @@
     "kind": "card",
     "eyebrow": "Agent Skill Registry",
     "title": "On-chain execution skills, hireable by any agent",
-    "videoLabel": "Watch the demo on X"
+    "videoLabel": "Watch the demo on X",
+    "videoUrl": "https://video.twimg.com/amplify_video/2072064643498221568/vid/avc1/1334x818/bryV8Sq6yevhUt1W.mp4?tag=28",
+    "posterUrl": "https://github.com/gitkernal/acp-cli-demos/blob/main/showcase/kernal/kernal-skill.jpg"
   },
   "skills": [
     {
